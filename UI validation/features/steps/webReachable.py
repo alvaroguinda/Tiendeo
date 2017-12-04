@@ -19,5 +19,5 @@ def step_impl(context):
 
 @then(u'should load the webpage')
 def step_impl(context):
-    WebDriverWait(context.browser,30).until(EC.title_contains('Tiendeo | '))
+    WebDriverWait(context.browser,10).until(EC.title_contains(u'Comprar en '))
     assert context.failed is False

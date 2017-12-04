@@ -1,0 +1,46 @@
+1512419325424	geckodriver	INFO	geckodriver 0.19.1
+1512419325437	geckodriver	INFO	Listening on 127.0.0.1:58694
+1512419327523	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\guindari\\AppData\\Local\\Temp\\rust_mozprofile.wlP6Hj2sDt6N"
+1512419328258	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\guindari\AppData\Local\openvr\openvrpaths.vrpath
+[Child 10708, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10708, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1512419330093	Marionette	INFO	Listening on port 58700
+1512419330662	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512419330745	Marionette	DEBUG	Register listener.js for window 4294967297
+1512419330783	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512419331258	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512419331258	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512419331287	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://api.themoviedb.org/3/movie/top_rated?api_key=2684d7e10e4ff5a1c7eda4112f74b4e8"
+1512419331310	Marionette	DEBUG	Received DOM event "pageshow" for "https://api.themoviedb.org/3/movie/top_rated?api_key=2684d7e10e4ff5a1c7eda4112f74b4e8"
+1512419331370	Marionette	DEBUG	Received DOM event "beforeunload" for "https://api.themoviedb.org/3/movie/top_rated?api_key=2684d7e10e4ff5a1c7eda4112f74b4e8"
+Unable to read VR Path Registry from C:\Users\guindari\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 166: Error: Script error for: components/json-panel
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 166: Error: Script error for: components/text-panel
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 166: Error: Script error for: components/headers-panel
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 166: Error: Script error for: devtools/client/shared/components/tabs/tabs
+http://requirejs.org/docs/errors.html#scripterror
+1512419331565	Marionette	DEBUG	Received DOM event "pagehide" for "https://api.themoviedb.org/3/movie/top_rated?api_key=2684d7e10e4ff5a1c7eda4112f74b4e8"
+1512419331565	Marionette	DEBUG	Received DOM event "unload" for "https://api.themoviedb.org/3/movie/top_rated?api_key=2684d7e10e4ff5a1c7eda4112f74b4e8"
+1512419331603	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://api.themoviedb.org/3/movie/top_rated?api_key=2684d7e10e4ff5a1c7eda4112f74b4e9"
+1512419331622	Marionette	DEBUG	Received DOM event "pageshow" for "https://api.themoviedb.org/3/movie/top_rated?api_key=2684d7e10e4ff5a1c7eda4112f74b4e9"
+1512419331652	Marionette	DEBUG	Received DOM event "beforeunload" for "https://api.themoviedb.org/3/movie/top_rated?api_key=2684d7e10e4ff5a1c7eda4112f74b4e9"
+1512419331784	Marionette	DEBUG	Received DOM event "pagehide" for "https://api.themoviedb.org/3/movie/top_rated?api_key=2684d7e10e4ff5a1c7eda4112f74b4e9"
+1512419331784	Marionette	DEBUG	Received DOM event "unload" for "https://api.themoviedb.org/3/movie/top_rated?api_key=2684d7e10e4ff5a1c7eda4112f74b4e9"
+1512419331800	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://api.themoviedb.org/3/movie/top_rated2?api_key=2684d7e10e4ff5a1c7eda4112f74b4e8"
+1512419331811	Marionette	DEBUG	Received DOM event "pageshow" for "https://api.themoviedb.org/3/movie/top_rated2?api_key=2684d7e10e4ff5a1c7eda4112f74b4e8"
+Unable to read VR Path Registry from C:\Users\guindari\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 19080, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+ey=2684d7e10e4ff5a1c7eda4112f74b4e9"
+1512419248276	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://api.themoviedb.org/3/movie/top_rated2?api_key=2684d7e10e4ff5a1c7eda4112f74b4e8"
+1512419248286	Marionette	DEBUG	Received DOM event "pageshow" for "https://api.themoviedb.org/3/movie/top_rated2?api_key=2684d7e10e4ff5a1c7eda4112f74b4e8"
+7e10e4ff5a1c7eda4112f74b4e8"
+1512419176591	Marionette	DEBUG	Received DOM event "pageshow" for "https://api.themoviedb.org/3/movie/top_rated2?api_key=2684d7e10e4ff5a1c7eda4112f74b4e8"
+Unable to read VR Path Registry from C:\Users\guindari\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 19156, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\guindari\AppData\Local\openvr\openvrpaths.vrpath
+[Child 13668, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13668, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
