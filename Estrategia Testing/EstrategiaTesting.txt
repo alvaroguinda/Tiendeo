@@ -1,0 +1,9 @@
+GEOFENCE
+
+Para probar un GEOFENCE, lo mejor es utilizar una metodologia de test de boundary testing. Esta metodologia
+prueba el comportamiento de la funcionalidad en los limites de area fijados. Es decir, se prueba el comportamiento 
+en el limite del area prefijada, en el valor inmediatamente anterior y en el inmediatamente posterior. De esta 
+forma se puede ver si emiten los eventos esperados para cada caso.
+
+Priorizaria y ejecutaria en primer lugar los test que comprueban los valores limite, dejando para el final los
+valores que se encuentran dentro de un area.
