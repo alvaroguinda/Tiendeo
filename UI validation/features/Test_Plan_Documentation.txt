@@ -1,0 +1,69 @@
+TEST PLAN DOCUMENTATION
+
+Smoke test plan to do on landing page http://www.tiendeo.com
+
+Budget:
+ * total of 8 hours for testing
+ * use part of this 8 hours to define and develop this test plan
+
+Timeline:
+ * create test plan
+ * develop test cases
+ * execute automatic test cases
+
+Scope:
+ * Support different browsers:
+   - Chrome, Firefox, IE
+
+Landing page information: 
+ In the home page should appear information related to the actual location
+ and the offers stored on it.
+ Also should show a search form to search by product or category and show
+ navigation bar to select category.
+
+ Based on this, the next test cases appear:
+
+ Web reachable:
+  * web can be reached using a web browser.
+
+ Location:
+  * click in the location information, introduce a new location and submit
+    information.
+ 
+ Navigation category:
+  * click in one category to filter offer results just for this category.
+
+ Search form:
+  * click in search box and introduce one product to show only offers of the
+    desired product.
+
+ Offers information:
+  * grid with offers should appear for current location.
+
+ Top Stores:
+  * grid with top stores should appear for current location.
+
+ Suscribe to Tiendeo Alerts:
+  * form for suscribe to Tiendeo alerts should appear.
+  * click on suscribe email, introduce a valid email and submit.
+
+ Top categories:
+  * grid showing top categories for current location.
+ 
+ Starred products:
+  * list of starred products sorted by category should be visible.
+
+ Comercial shop center information:
+  * grid of main comercial shopping center should be visible.
+
+ Location information:
+  * brief information of location is visible.
+
+ Tiendeo information:
+  * links to more information about Tiendeo.
+
+ Tiendeo international:
+  * links to global Tiendeo websites.
+
+ Tiendeo mobile app:
+  * link to the store for download the app.
